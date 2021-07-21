@@ -17,3 +17,6 @@ print("김하준")
 # 프로젝트 관연 이미지
 ![이미지설명](./image/가나.png)
 
+# 유튜브 관련 영상
+[유튜브바로가기](https://github.com/qkrtjdgh1232/qkrtjdgh1232/edit/main/image/README.md)
+
