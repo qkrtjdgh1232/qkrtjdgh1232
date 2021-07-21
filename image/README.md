@@ -20,4 +20,4 @@ print("김하준")
 # 유튜브 관련 영상
 [유튜브바로가기](https://github.com/qkrtjdgh1232/qkrtjdgh1232/edit/main/image/README.md)
 
-**skdks**
+
